@@ -3,10 +3,10 @@ import PropTypes from "prop-types";
 
 
 
-
+//File
 
 const Profile = (props) => {
-    
+
     return (
         <div>
             <img src={props.children} alt="this is the name" />
